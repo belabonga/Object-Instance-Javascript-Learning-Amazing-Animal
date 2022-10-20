@@ -1,4 +1,4 @@
-# Amazing Animal
+# Class / Object Instance Learning - Amazing Animal
 
 ## Learning Competencies
 Pemodelan sistem dengan object atau class
